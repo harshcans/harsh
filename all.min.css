@@ -45,3 +45,9 @@ input {
   margin-left:auto;
   align-items:center;
 }
+.gap-10{
+  gap:10px
+}
+.gap-5{
+  gap:5px;
+}
