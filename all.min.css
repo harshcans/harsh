@@ -41,3 +41,7 @@ input {
   background-color: transparent;
   padding: 2px;
 }
+.right{
+  margin-left:auto;
+  align-items:center;
+}
