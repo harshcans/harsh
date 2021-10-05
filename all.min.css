@@ -51,3 +51,6 @@ input {
 .gap-5{
   gap:5px;
 }
+.bold{
+  font-weight: bold;
+}
