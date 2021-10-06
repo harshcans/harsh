@@ -69,3 +69,7 @@ input {
 .text-right{
     text-align: right;
 }
+.normal{
+  font-size:16px;
+  font-weight: normal;
+}
