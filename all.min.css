@@ -18,6 +18,7 @@ body {
 .flex-center {
   align-items: center;
   display: flex;
+    justify-content: center;
 }
 .opacity-07 {
   opacity: 0.7;
