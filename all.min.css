@@ -50,7 +50,6 @@ ul {
 }
 button,
 input {
-  border: 1px solid grey;
   outline: 0;
   background-color: transparent;
   padding: 2px;
